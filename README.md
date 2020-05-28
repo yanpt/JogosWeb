@@ -6,6 +6,8 @@
 
 [Exercicio ImagemSVG](https://yanpt.github.io/JogosWeb/Bandeira.html)
 
+[Exercicio ExemplosSVG](https://yanpt.github.io/JogosWeb/ExemSVG.html)
+
 [Exercicio Interatividade](https://yanpt.github.io/JogosWeb/Drag.html)
 
 [Exercicio Animação](https://yanpt.github.io/JogosWeb/SVGAnimation.html)
